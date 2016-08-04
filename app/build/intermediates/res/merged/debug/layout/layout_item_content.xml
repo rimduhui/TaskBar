@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    	xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:layout_width="wrap_content"
+	    android:layout_height="match_parent">
+	    <View
+	        android:layout_width="150dp"
+	        android:layout_height="match_parent"/>
+		<LinearLayout
+		    android:layout_width="wrap_content"
+		    android:layout_height="match_parent"
+		    android:orientation="horizontal" >
+		    
+		    <ImageView
+		        android:id="@+id/taskImage"
+		        android:layout_width="@dimen/task_bar_height"
+		        android:layout_height="match_parent"
+		        android:scaleType="fitXY"
+		        android:contentDescription="@string/cont_desc"/>
+		    
+		    <View
+		        android:layout_width="2dp"
+		        android:layout_height="match_parent"/>
+		
+		    <TextView
+		        android:textColor="#FFFFFF"
+		        android:id="@+id/taskText"
+		        android:gravity="center"
+		        android:layout_width="wrap_content"
+		        android:layout_height="match_parent"/>
+		</LinearLayout>
+	</RelativeLayout>

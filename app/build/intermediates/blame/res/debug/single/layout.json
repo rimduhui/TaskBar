@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/rimduhui/AndroidStudioProjects/TaskBar/app/build/intermediates/res/merged/debug/layout/layout_startmenu.xml",
+        "source": "/Users/rimduhui/AndroidStudioProjects/TaskBar/app/src/main/res/layout/layout_startmenu.xml"
+    },
+    {
+        "merged": "/Users/rimduhui/AndroidStudioProjects/TaskBar/app/build/intermediates/res/merged/debug/layout/layout_taskbar.xml",
+        "source": "/Users/rimduhui/AndroidStudioProjects/TaskBar/app/src/main/res/layout/layout_taskbar.xml"
+    },
+    {
+        "merged": "/Users/rimduhui/AndroidStudioProjects/TaskBar/app/build/intermediates/res/merged/debug/layout/layout_taskitem.xml",
+        "source": "/Users/rimduhui/AndroidStudioProjects/TaskBar/app/src/main/res/layout/layout_taskitem.xml"
+    },
+    {
+        "merged": "/Users/rimduhui/AndroidStudioProjects/TaskBar/app/build/intermediates/res/merged/debug/layout/layout_startmenu_item.xml",
+        "source": "/Users/rimduhui/AndroidStudioProjects/TaskBar/app/src/main/res/layout/layout_startmenu_item.xml"
+    },
+    {
+        "merged": "/Users/rimduhui/AndroidStudioProjects/TaskBar/app/build/intermediates/res/merged/debug/layout/layout_item_content.xml",
+        "source": "/Users/rimduhui/AndroidStudioProjects/TaskBar/app/src/main/res/layout/layout_item_content.xml"
+    }
+]
